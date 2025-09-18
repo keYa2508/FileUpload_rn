@@ -10,9 +10,14 @@
     "test": "jest"
   },
   "dependencies": {
+    "@react-native-documents/picker": "^10.1.6",
+    "@react-native-documents/viewer": "^1.0.2",
+    "@react-native/new-app-screen": "0.81.4",
     "react": "19.1.0",
     "react-native": "0.81.4",
-    "@react-native/new-app-screen": "0.81.4",
+    "react-native-background-actions": "^4.0.1",
+    "react-native-blob-util": "^0.22.2",
+    "react-native-dotenv": "^3.4.11",
     "react-native-safe-area-context": "^5.5.2"
   },
   "devDependencies": {
